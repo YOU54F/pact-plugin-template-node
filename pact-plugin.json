@@ -1,0 +1,12 @@
+{
+  "pluginInterfaceVersion": 1,
+  "name": "saf",
+  "version": "0.0.4",
+  "executableType": "exec",
+  "minimumRequiredVersion": null,
+  "entryPoint": "build/server",
+  "entryPoints": {},
+  "args": null,
+  "dependencies": null,
+  "pluginConfig": {}
+}
